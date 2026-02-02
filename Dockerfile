@@ -1,4 +1,4 @@
-FROM alpine:3.12
+FROM alpine:3.23.3
 # Add Maintainer Info
 LABEL maintainer="Community Engineering Team <community-engg@harness.io.>"
 # Copy the Go binary into the image. The Go binary must be
